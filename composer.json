@@ -1,5 +1,5 @@
 {
-	"name" : "cloudcogsio/oauth2-openid-connect-discovery",
+	"name" : "runezj/oauth2-openid-connect-discovery",
 	"type" : "library",
 	"license" : "MIT",
 	"authors" : [{
